@@ -13,7 +13,14 @@
     "rules": {
       "recommended": true,
       "correctness": {
-        "noUnusedVariables": "error"
+        "noUnusedVariables": {
+          "level": "error",
+          "fix": "none"
+        },
+        "noUnusedImports": {
+          "level": "error",
+          "fix": "none"
+        }
       },
       "suspicious": {
         "noExplicitAny": "error"
