@@ -24,6 +24,8 @@
 - Configure permissions following the principle of least privilege
 - Use RSPack and its surrounding tools for development
 - Implement proper version control and change management
+- Use Bun for development
+- Use Biome for linting and formatting
 
 ## Chrome API Usage
 
